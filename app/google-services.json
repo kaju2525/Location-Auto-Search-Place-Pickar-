@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "468875482743",
+    "firebase_url": "https://chat2-197021.firebaseio.com",
+    "project_id": "chat2-197021",
+    "storage_bucket": "chat2-197021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468875482743:android:8eeebbaa3dbc13b5",
+        "android_client_info": {
+          "package_name": "com.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468875482743-g7bpjkght38og223o77o2vop7sapl1pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maps",
+            "certificate_hash": "3fd649ab5655bd7c7f6009ba23d87c721a190210"
+          }
+        },
+        {
+          "client_id": "468875482743-tn228hhk37iujd158rt80u7m23p0d225.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANnKsc0Bs7Zymy8AoH2cDhKyBsytNJSKc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468875482743-tn228hhk37iujd158rt80u7m23p0d225.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
